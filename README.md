@@ -1,4 +1,4 @@
-# tomato-food-delivery-app
+# tomato-food-delivery-application
 
 Tomato app is a full-stack system build in MERN.js which aims to offer a customer a range of food products to order. Then the customer can choose and order a menu build on its own.
 

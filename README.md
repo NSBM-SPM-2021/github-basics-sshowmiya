@@ -42,6 +42,10 @@ Let's order food from the above restaurant.
 
 ![user-login](http://g.recordit.co/lFgzrDYcxY.gif)
 
+##JIRA screenshot
+
+![issues](https://github.com/NSBM-SPM-2021/github-basics-sshowmiya/tree/master/JIRA%20screenshots)!
+
 ## Configuration
 
 Make sure to add your own `MONGOURI` from your [mLab](http://mlab.com) database in `config/keys.js`.

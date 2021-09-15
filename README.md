@@ -42,7 +42,7 @@ Let's order food from the above restaurant.
 
 ![user-login](http://g.recordit.co/lFgzrDYcxY.gif)
 
-![issues](https://github.com/NSBM-SPM-2021/github-basics-sshowmiya/tree/master/JIRA%20screenshots)
+![issues](https://github.com/NSBM-SPM-2021/github-basics-sshowmiya/tree/master/JIRA%20screenshots.png)
 
 ## Configuration
 

@@ -42,6 +42,8 @@ Let's order food from the above restaurant.
 
 ![user-login](http://g.recordit.co/lFgzrDYcxY.gif)
 
+###JIRA
+
 ![issues](https://github.com/NSBM-SPM-2021/github-basics-sshowmiya/tree/master/JIRA%20screenshots.png)
 
 ## Configuration

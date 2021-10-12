@@ -45,6 +45,7 @@ Let's order food from the above restaurant.
 ###JIRA
 
 ![issues](https://github.com/NSBM-SPM-2021/github-basics-sshowmiya/tree/master/JIRA%20screenshots.png)
+!jira(https://github.com/NSBM-SPM-2021/github-basics-sshowmiya/tree/master/JIRA%20screenshots.png)
 
 ## Configuration
 

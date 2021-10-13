@@ -42,6 +42,13 @@ Let's order food from the above restaurant.
 
 ![user-login](http://g.recordit.co/lFgzrDYcxY.gif)
 
+![hosting](https://github.com/NSBM-SPM-2021/github-basics-sshowmiya/blob/master/screenshots/WhatsApp%20Image%202021-10-13%20at%2022.45.00.jpeg)
+![hosting)(https://github.com/NSBM-SPM-2021/github-basics-sshowmiya/blob/master/screenshots/WhatsApp%20Image%202021-10-13%20at%2022.45.05.jpeg)
+![testing](https://github.com/NSBM-SPM-2021/github-basics-sshowmiya/blob/master/screenshots/WhatsApp%20Image%202021-10-13%20at%2022.44.57.jpeg)
+![action deploy](https://github.com/NSBM-SPM-2021/github-basics-sshowmiya/blob/master/screenshots/WhatsApp%20Image%202021-10-13%20at%2022.43.49.jpeg)
+
+
+
 ###JIRA
 
 ![issues](https://github.com/NSBM-SPM-2021/github-basics-sshowmiya/tree/master/JIRA%20screenshots.png)

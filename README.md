@@ -50,7 +50,9 @@ Let's order food from the above restaurant.
 
 
 ###JIRA
-
+![jira](https://github.com/NSBM-SPM-2021/github-basics-sshowmiya/blob/master/jira%20screenshot1/WhatsApp%20Image%202021-10-13%20at%2023.28.11%20(1).jpeg)
+![jira](https://github.com/NSBM-SPM-2021/github-basics-sshowmiya/blob/master/jira%20screenshot1/WhatsApp%20Image%202021-10-13%20at%2023.28.11.jpeg)
+[jira](https://github.com/NSBM-SPM-2021/github-basics-sshowmiya/blob/master/jira%20screenshot1/WhatsApp%20Image%202021-10-13%20at%2023.28.12.jpeg)
 
 
 
